@@ -7,7 +7,7 @@
 <!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
 <table width="2000">
 <tr>
-<td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
+<td width="2000"><img align="center" width="100%" alt="🦑" src="/github-metrics.svg"></td>
 </tr>
 </table>
 <!-- <img align="right" width="45%" alt="🦑" src="/charts.svg">
@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
+<td><img align="" width="" alt="🦑" src="/github-metrics.svg"></td>
 <!-- <td><img align="" width="" alt="🦑" src="/asuka.gif"></td> -->
 <td><img align="" width="" height="" alt="🦑" src="https://github.com/user-attachments/assets/d2ca70f6-8b14-4147-b7eb-ed31f1900b54"></td>
 </tr>
