@@ -22,13 +22,6 @@
 <img align="left" width="50%" alt="🦑" src="/achievements.svg">
 <img align="right" width="45%" alt="🦑" src="/stars.svg"> -->
 
-<table>
-<tr>
-<td><img align="" width="" alt="🦑" src="/github-metrics.svg"></td>
-<!-- <td><img align="" width="" alt="🦑" src="/asuka.gif"></td> -->
-<td><img align="" width="" height="" alt="🦑" src="https://github.com/user-attachments/assets/d2ca70f6-8b14-4147-b7eb-ed31f1900b54"></td>
-</tr>
-</table>
 
 <!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
 <table width="2000">
